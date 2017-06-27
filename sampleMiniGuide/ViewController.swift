@@ -19,7 +19,7 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
     
     var placeList:[String] = []
     
-    //選択された名前
+    //選択された名前(エリア名）
     var selectedName = ""
 //    var selectedName:Int!
     
