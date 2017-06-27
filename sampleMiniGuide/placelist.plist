@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bohol</key>
+	<dict>
+		<key>description</key>
+		<string>チョコレートヒルズ＆ターシャ</string>
+		<key>image</key>
+		<string>bohol.png</string>
+		<key>latitude</key>
+		<string>9.88904</string>
+		<key>longitude</key>
+		<string>124.218078</string>
+	</dict>
+	<key>エルニド</key>
+	<dict>
+		<key>description</key>
+		<string>世界最後の秘境</string>
+		<key>image</key>
+		<string>elnido.png</string>
+		<key>latitude</key>
+		<string>11.209709</string>
+		<key>longitude</key>
+		<string>119.462254</string>
+	</dict>
+	<key>Ayara</key>
+	<dict>
+		<key>description</key>
+		<string>Cebuの中心地</string>
+		<key>image</key>
+		<string>ayara.png</string>
+		<key>latitude</key>
+		<string>10.3747</string>
+		<key>longitude</key>
+		<string>123.905759</string>
+	</dict>
+	<key>モアルボアル</key>
+	<dict>
+		<key>description</key>
+		<string>ダイビングスポットforジンベイザメ</string>
+		<key>image</key>
+		<string>moalboal.png</string>
+		<key>latitude</key>
+		<string>9.955661</string>
+		<key>longitude</key>
+		<string>123.40076</string>
+	</dict>
+</dict>
+</plist>
